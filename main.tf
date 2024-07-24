@@ -5,8 +5,8 @@ module "lerncloud" {
   #source     = "git::https://github.com/mc-b/terraform-lerncloud-aws"
   #source     = "git::https://github.com/mc-b/terraform-lerncloud-azure"
   
-  module     = "m347"
-  description = "Modul 347 - Dienst mit Container anwenden"
+  module     = "m321"
+  description = "Modul 321 - Verteilte Systeme programmieren"
   cores   = 2
   memory  = 4
   storage = 24 

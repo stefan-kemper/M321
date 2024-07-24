@@ -1,7 +1,11 @@
-Modul 347 - Dienst mit Container anwenden
+Modul 321 - Verteilte Systeme programmieren
 ==================================
 
-Container Umgebung.
+Diese VM ist dazu gedacht ein Teil eines verteilten Systems zu beherbergen. Jede Person in der Klasse erhält eine VM um seinen Teil des verteilten Systems darauf zu hosten. Die VM's aller Personen in einer Gruppe müssen dann im Rahmen der Gruppenarbeit zu einem grossen ganzen zusammengefügt werden.
+
+Auf der VM ist bereits ein Docker- und Kubernetes-Umgebung vorinstalliert. Sollte es im Rahmen der Projektarbeit nötig sein, weitere Software auf der VM zu installieren, ist dies grundsätzlich gestattet, solange Sie sich an die geltenden Gesetze (insbesondere Urheber/Lizenzrecht und Datenschutz) und die Nutzungsrichtlinien der TBZ in Bezug auf die IT-Infrastruktur beachten. 
+
+Im Folgenden wird die Nutzung der Container-Infrastruktur anhand von Beispielen erklärt.
 
 Verwendete Produkte
 -------------------
